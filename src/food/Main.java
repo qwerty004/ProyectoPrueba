@@ -14,7 +14,8 @@ class Main {
       
          Random rd = new Random();
          int a;
-       
+         String asasdasda="si o que!";
+       String sdsa ="Hola. Soy el colaborador";
         int [] numeros = new int [2];
         int [] todos = new int [12];
          
